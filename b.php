@@ -5,3 +5,4 @@
     echo "master";
     echo "master2";
     echo "master3";
+    echo "teesttest";
