@@ -4,3 +4,4 @@
     echo "test";
     echo "master";
     echo "master2";
+    echo "master3";
